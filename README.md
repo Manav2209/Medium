@@ -22,3 +22,4 @@ To get started with our platform, you can sign up as a user to explore content o
 - Interact with content by liking, commenting, and sharing your favorite articles.
 - Follow your favorite authors to never miss an update.
 
+"# Medium" 
